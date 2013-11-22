@@ -1,5 +1,11 @@
+var game;
 var startGame = function(x,y,width,height,bombs) {
-  var game = new Game(x,y,width,height,bombs);
+  game = new Game(x,y,width,height,bombs);
   printGame(game,true);
-  expand(x,y);
+  click(x,y);
+}
+
+var click = function(x,y) {
+  
+  
 }
