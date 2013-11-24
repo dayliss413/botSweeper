@@ -6,6 +6,6 @@ var startGame = function(x,y,width,height,bombs) {
 }
 
 var click = function(x,y) {
-  
+  //change
   
 }
