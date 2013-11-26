@@ -45,4 +45,4 @@ var getSpace = function(x,y) {
   }
 }
 
-//startGame(10,10,20,20,10);
+startGame(10,10,20,20,10);
